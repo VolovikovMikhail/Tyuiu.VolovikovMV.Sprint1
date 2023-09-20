@@ -33,16 +33,16 @@ namespace Tyuiu.VolovikovMV.Sprint1.Task3.V15
             double s = 10;
             double t = 3;
 
-            Console.WriteLine("Скорость первого автомобиля = " + v1);
-            Console.WriteLine("Скорость второго автомобиля = " + v2);
-            Console.WriteLine("Расстояние между автомобилями = " + s);
-            Console.WriteLine("Время затраченное на движение = " + t);
+            Console.WriteLine("Скорость первого автомобиля = " + v1 + " км/ч");
+            Console.WriteLine("Скорость второго автомобиля = " + v2 + " км/ч");
+            Console.WriteLine("Расстояние между автомобилями = " + s + " км");
+            Console.WriteLine("Время затраченное на движение = " + t + " ч");
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Результат:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Расстояние между автомобилями через " + t + " часов = " + ds.DistanceOverTime( v1, v2, s, t));
+            Console.WriteLine("Расстояние между автомобилями через " + t + " часов = " + ds.DistanceOverTime( v1, v2, s, t) + " км");
 
             Console.ReadKey();
         }   
