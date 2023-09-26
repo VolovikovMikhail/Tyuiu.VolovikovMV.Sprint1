@@ -16,7 +16,7 @@ namespace Tyuiu.VolovikovMV.Sprint1.Task1.V27
             Console.Title = "Спринт #1 | Выполнил: Воловиков М. В. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода\вывода в консольных приложениях                 *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #27                                                             *");
             Console.WriteLine("* Выполнил: Воловиков Михаил Васильевич | АСОиУб-23-3                     *");
