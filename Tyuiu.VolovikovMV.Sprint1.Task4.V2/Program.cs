@@ -16,9 +16,9 @@ namespace Tyuiu.VolovikovMV.Sprint1.Task4.V2
             Console.Title = "Спринт #1 | Выполнил: Воловиков М. В. | АСОиУб-23-3";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
-            Console.WriteLine("* Задание #3                                                              *");
-            Console.WriteLine("* Вариант #15                                                             *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
+            Console.WriteLine("* Задание #4                                                              *");
+            Console.WriteLine("* Вариант #2                                                              *");
             Console.WriteLine("* Выполнил: Воловиков Михаил Васильевич | АСОиУб-23-3                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Условие: Написать программу, которая запрашивает у пользователя         *");
