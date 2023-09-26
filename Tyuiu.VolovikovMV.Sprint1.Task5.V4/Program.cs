@@ -18,7 +18,7 @@ namespace Tyuiu.VolovikovMV.Sprint1.Task5.V4
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Преобразование типов и класс Convert                              *");
             Console.WriteLine("* Задание #5                                                              *");
-            Console.WriteLine("* Вариант #2                                                             *");
+            Console.WriteLine("* Вариант #2                                                              *");
             Console.WriteLine("* Выполнил: Воловиков Михаил Васильевич | АСОиУб-23-3                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Условие: Написать программу, которая запрашивает у пользователя         *");
